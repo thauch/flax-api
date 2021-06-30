@@ -1,0 +1,15 @@
+{
+    "name": "flax-api",
+    "version": "1.4.0",
+    "repository": "https://github.com/thauch/flax-api.git",
+    "bugs": "https://github.com/thauch/flax-api/issues",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "json-bigint": "^1.0.0",
+        "ws": "^7.4.6"
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">=12.0.0"
+    }
+}
